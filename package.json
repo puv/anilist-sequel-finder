@@ -25,8 +25,8 @@
   "homepage": "https://github.com/puv/anilist-sequel-finder#readme",
   "dependencies": {
     "anilist-node": "^1.11.0",
+    "axios": "^0.24.0",
     "dotenv": "^10.0.0",
-    "express": "^4.17.2",
-    "request": "^2.88.2"
+    "express": "^4.17.2"
   }
 }
