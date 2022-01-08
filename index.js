@@ -1,7 +1,6 @@
 const request = require('request');
 const express = require('express');
 const anilist = require('anilist-node');
-const { json } = require('express/lib/response');
 require('dotenv').config();
 const app = express();
 const domain = process.env.DOMAIN || 'http://localhost'; // include the http:// or https://
